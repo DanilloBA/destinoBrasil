@@ -1,0 +1,126 @@
+body{background-image: url(asset/rio\ de\ janeiro.jpg);background-size: cover;background-attachment: fixed;background-repeat: no-repeat;}
+
+
+.body1{background-image: url(asset/cabo\ frio.jpg);background-size: cover;background-attachment: fixed;background-repeat: no-repeat;}
+
+
+.body2{background-image: url(asset/porto-alegre-ciudad.webp);background-repeat: no-repeat;background-size: cover;background-attachment: fixed;}
+
+
+.body3{background-image: url(asset/pantanal-capa.jpg);background-repeat: no-repeat;background-size: cover;background-attachment: fixed;}
+
+
+.body4{background-image: url(asset/region\ nodeste.webp);background-repeat: no-repeat;background-size: cover;background-attachment: fixed;}
+
+
+.body5{background-image: url(asset/norte\ \(natal\ 2\ \).jpg);background-repeat: no-repeat;background-size: cover;background-attachment: fixed;}
+
+
+.body6{background-image: url(asset/noroeste\ praya.jpg);background-repeat: no-repeat;background-size: cover;background-attachment: fixed; }
+
+
+.formato-1{display: flex;justify-content: center;align-items: center; text-align: center;
+flex-direction: row;flex-wrap: wrap;background-color: #74EBD5;
+background-image: linear-gradient(90deg, #74EBD5 0%, #9fe6c2 100%);
+
+}
+
+
+.sub-formato-1{display: flex;justify-content: center;align-items: center; text-align: center;
+flex-direction:row;flex-wrap: wrap;margin-top: 50px;}
+
+.sub-log{display: flex;justify-content: center;align-items: center; text-align: center;
+flex-direction:column;flex-wrap: wrap}
+
+
+.logo-rio{display: flex;width: 40%;min-width: 200px;margin: 10px;}
+
+.button-0{ padding-top: 20px;}
+
+.button-1{margin: 4px;background-color: rgba(239, 232, 235, 0.107);border-radius: 0.3em;backdrop-filter: blur(10px);border-color: rgba(240, 248, 255, 0.027);width: 100px;}
+
+.button-2{margin: 4px;background-color: rgba(239, 232, 235, 0.246);border-radius: 0.3em;backdrop-filter: blur(10px);border-color: rgba(240, 248, 255, 0.027);}
+
+.logo-1{width: 300px; min-width: 200px;}
+
+.sub-formato-2{display: flex;justify-content: center;align-items: center;text-align: center;background-color: rgba(239, 232, 235, 0.149);border-radius: 0.3em;backdrop-filter: blur(20px);margin: 10px;border-radius: 0.3em; width: 350px ;height: 300px;flex-direction: column;padding: 30px;}
+
+.color-texto{color: rgb(31, 33, 34);}
+
+.formato-2{display: flex;justify-content: center;align-items: center; text-align: center;
+flex-direction: row;flex-wrap: wrap; margin-top: 50px;}
+
+
+.imagen-1{width: 70px;border-radius: 0.5em; margin: 5px;}
+
+.formato-logo{display: flex;margin-top: 100px; margin: 50px;}
+
+.sub-formato-3{display: flex;justify-content: center;align-items: center;text-align: center;background-color: rgba(239, 232, 235, 0.118);border-radius: 0.3em;backdrop-filter: blur(10px);margin: 10px;border-radius: 0.3em; width: 400px ;min-width: 360px; height: 200px;}
+
+
+
+
+
+
+.cargaFoto0{display: flex;width: auto;height:auto;text-align: center;align-items: flex-end;justify-content: center;margin-top: 85px;}
+
+.cargaFoto1{display: flex;width: auto;height:auto;text-align: center;align-items: flex-end;justify-content: center;margin-top: 40px;}
+
+.cargaFoto2{display: flex;border-radius: 50%;width:150px;height: 150px;justify-content:center;align-items: flex-end;flex-direction: ;}
+
+.sul1{display: flex;justify-content: center;text-align: center;flex-direction: row;flex-wrap: wrap;margin-top: 50px;height: max-content;}
+
+.sulFormato{background-color: rgba(250, 235, 215, 0.103);backdrop-filter: blur(10px);margin: 5px;border-radius: 0.3em;width: 300px;height:600px ;display: flex;justify-content: center;align-items: center;flex-direction: column;padding: 20px;}
+
+.sul2{display: flex;justify-content: center;text-align: center;margin-top: 50px;}
+
+.sulformato3{color: aliceblue;display: flex;text-align: center;justify-content: center;background-color: rgba(250, 235, 215, 0.103);backdrop-filter: blur(10px);margin: 5px;border-radius: 0.4em;flex-direction: column;margin-top: 40px;align-items: center;}
+
+
+
+.buttonEspecial{ background-color: #4158D0;background-image: linear-gradient(43deg, #4158D0 0%, #C850C0 46%, #FFCC70 100%);
+;display: flex;align-items:flex-start;justify-content: flex-start;}
+
+.sulformato2{ background-color: #FA8BFF;
+background-image: linear-gradient(45deg, #FA8BFF 0%, #2BD2FF 52%, #2BFF88 90%);
+}
+
+.sul3{display: flex;align-items: center;justify-content: center; text-align: center;margin:10px;flex-wrap: wrap;}
+ 
+
+.sulParafo{color: rgb(17, 18, 18);display: flex; background-color: #08AEEA;
+background-image: linear-gradient(0deg, #08AEEA 0%, #2AF598 100%);
+;}
+
+.sulFormato6{display: flex;margin:10px;justify-content: center;align-items: center;text-align: center;}
+
+
+.textoSul1{color: azure;}
+
+.sulformato5{display: flex;align-items: center;justify-content: center;text-align: center; margin-top: 40px;flex-direction: column;}
+
+.textoPrayas{ color: rgb(11, 218, 42);}
+
+
+
+.textoSuldeste1{color: black;}
+
+.titulosul{display: flex;}
+
+.suldesteformato5{display: flex;align-items: center;justify-content: center;text-align: center; margin-top: 40px;flex-direction: column;}
+
+
+.suldesteParafo{color: rgb(2, 10, 10);display: flex; background-color: #0093E9;background-image: linear-gradient
+(160deg, #0093E9 0%, #80D0C7 100%);}
+
+
+
+.suldesteFormato6{display: flex;margin:10px;justify-content: 
+center;align-items: center;text-align: center;}
+
+.suldesteSubformato-1{display: flex;justify-content: center;text-align: center;align-items: center;flex-direction: column;margin-top: 40px; color: black;margin: 10px;}
+
+.suldesteParafo{color: rgb(17, 18, 18);display: flex; background-color: #0093E9;background-image: linear-gradient(160deg, #0093E9 0%, #80D0C7 100%);}
+
+
+.colorsul1{color: aliceblue;}
