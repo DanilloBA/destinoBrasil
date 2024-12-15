@@ -21,10 +21,11 @@ body{background-image: url(asset/rio\ de\ janeiro.jpg);background-size: cover;ba
 
 .formato-1{display: flex;justify-content: center;align-items: center; text-align: center;
 flex-direction: row;flex-wrap: wrap;background-color: #74EBD5;
-background-image: linear-gradient(90deg, #74EBD5 0%, #9fe6c2 100%);
+background-image: linear-gradient(90deg, #74EBD5 0%, #9fe6c2 100%);}
 
-}
+.sub-logo{display: flex;justify-content: center;align-items: center;flex-direction: column;}
 
+.sub-formato-0{display: flex; justify-content: center;align-items: center;background-color: rgba(239, 232, 235, 0.107);border-radius: 0.3em;backdrop-filter: blur(10px);border-color: rgba(240, 248, 255, 0.027);width: 100px;flex-direction: column;width: 70%;margin: 20px;}
 
 .sub-formato-1{display: flex;justify-content: center;align-items: center; text-align: center;
 flex-direction:row;flex-wrap: wrap;margin-top: 50px;}
